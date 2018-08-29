@@ -10,7 +10,11 @@ This must be on your host operating system (Windows or MacOS) not on a virtual m
 
 ##### 2. Enable Kubernetes
 
+Kubernetes ships with Docker for Desktop on both Windows and Mac. Open the Docker for Desktop application window, navigate to the Kubernetes tab, and click the appropriate checkbox:
 
+![Enable Kubernetes in Docker for Desktop on Mac](https://github.com/gotopple/k8s-for-users-prerequisites/raw/master/images/enable-kube-d4m.png)
+
+![Enable Kubernetes in Docker for Desktop on Windows](https://github.com/gotopple/k8s-for-users-prerequisites/raw/master/images/enable-kube-d4w.png)
 
 ##### 3. Verify installation and version
 
