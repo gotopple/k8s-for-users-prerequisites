@@ -67,9 +67,9 @@ When you've done these please respond to the email and let me know that you're r
 
 ## Class rules:
 
-1. Please no work email during class
-2. Lids down during lecture
-3.
+1. Please arrive on time
+2. Please no work or work email during class
+3. Lids down during lecture
 
 ## Copyright
 
