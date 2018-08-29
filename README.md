@@ -2,17 +2,17 @@
 
 Good morning trainees,
 
-In the week before our Kubernetes training you'll need to take a few simple steps to prepare. This course is a two-day offsite at Galvanize in Phoenix. You will need to prepare and bring your laptops. All work will be done locally.
+In the week before our Kubernetes training you'll need to take a few simple steps to prepare. This course is a two-day off-site at Galvanize in Phoenix. You will need to prepare and bring your laptops. All work will be done locally.
 
 ### 1. Install "Docker for Desktop" 18.06 on the laptop that you'll be bringing to class
 
 Install from: https://www.docker.com/products/docker-desktop
 
-This must be on your host operating system (Windows or MacOS) not on a virtual machine. Docker for Desktop will leverage your OS virutalization technology. For Windows users this means it requires that your system has HyperV (Windows 10 Pro). This course will not leverage proprietary Intel data or IP so if it is easier to use a personal laptop then you are welcome to do so.
+This must be on your host operating system (Windows or MacOS) not on a virtual machine. Docker for Desktop will leverage your OS virtualization technology. For Windows users this means it requires that your system has HyperV (Windows 10 Pro). This course will not leverage proprietary Intel data or IP so if it is easier to use a personal laptop then you are welcome to do so.
 
 ### 2. Enable Kubernetes
 
-Kubernetes ships with Docker for Desktop on both Windows and Mac. Open the Docker for Desktop application window, navigate to the Kubernetes tab, and click the appropriate checkbox:
+Kubernetes ships with Docker for Desktop on both Windows and Mac. Open the Docker for Desktop application window, navigate to the Kubernetes tab, and click the appropriate check box:
 
 <p align="center">
 <img alt="Enable Kubernetes in Docker for Desktop on Mac" src="https://github.com/gotopple/k8s-for-users-prerequisites/raw/master/images/enable-kube-d4m.png">
