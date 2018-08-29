@@ -21,6 +21,31 @@ Kubernetes ships with Docker for Desktop on both Windows and Mac. Open the Docke
 
     kubectl version -o yaml
 
+You should get output that looks like:
+
+```
+clientVersion:
+  buildDate: 2018-05-21T09:17:39Z
+  compiler: gc
+  gitCommit: 2bba0127d85d5a46ab4b778548be28623b32d0b0
+  gitTreeState: clean
+  gitVersion: v1.10.3
+  goVersion: go1.9.3
+  major: "1"
+  minor: "10"
+  platform: darwin/amd64
+serverVersion:
+  buildDate: 2018-05-21T09:05:37Z
+  compiler: gc
+  gitCommit: 2bba0127d85d5a46ab4b778548be28623b32d0b0
+  gitTreeState: clean
+  gitVersion: v1.10.3
+  goVersion: go1.9.3
+  major: "1"
+  minor: "10"
+  platform: linux/amd64
+```
+
 ##### 4. Pre-pull several Docker images
 
 You're going to be using several official sample programs. Download those Docker images now in order to speed things up during class. Run the following commands on your laptop:
