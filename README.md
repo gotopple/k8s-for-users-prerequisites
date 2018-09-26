@@ -2,13 +2,13 @@
 
 Good morning trainees,
 
-In the week before our Kubernetes training you'll need to take a few simple steps to prepare. This course is a two-day off-site at Galvanize in Phoenix. You will need to prepare and bring your laptops. All work will be done locally.
+Before our Kubernetes training you'll need to take a few simple steps to prepare.
 
-### 1. Install "Docker for Desktop" 18.06 on the laptop that you'll be bringing to class
+### 1. Install "Docker for Desktop" 18.06 or later on the laptop that you'll be bringing to class
 
 Install from: https://www.docker.com/products/docker-desktop
 
-This must be on your host operating system (Windows or MacOS) not on a virtual machine. Docker for Desktop will leverage your OS virtualization technology. For Windows users this means it requires that your system has HyperV (Windows 10 Pro). This course will not leverage proprietary Intel data or IP so if it is easier to use a personal laptop then you are welcome to do so.
+This must be on your host operating system (Windows or MacOS) not on a virtual machine. Docker for Desktop will leverage your OS virtualization technology. For Windows users this means it requires that your system has HyperV (Windows 10 Pro). 
 
 ### 2. Enable Kubernetes
 
@@ -62,16 +62,6 @@ You're going to be using several official sample programs. Download those Docker
     docker pull dockersamples/examplevotingapp_vote:after
     docker pull postgres:9.4
     docker pull k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
-
-### 5. Email me
-
-When you've done these please respond to the email and let me know that you're ready to go.
-
-## Class rules:
-
-1. Please arrive on time
-2. Please no work or work email during class
-3. Lids down during lecture
 
 ## Copyright
 
